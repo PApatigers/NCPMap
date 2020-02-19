@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">疫情小工具</string>
+
+    <string name="launch_title">众志成城 抗击疫情</string>
+    
+    
+    <string name="function_global">全国疫情图</string>
+    <string name="function_global_exra">基于腾讯数据</string>
+    <string name="function_local">周围疫情</string>
+    <string name="function_local_exra">查看周围病例</string>
+    <string name="function_game">别踩白块</string>
+    <string name="function_game_exra">娱乐一下</string>
+</resources>

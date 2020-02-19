@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ncp_map"
+        android:icon="@drawable/ic_fire"
+        android:title="疫情图" />
+
+    <item
+        android:id="@+id/function"
+        android:icon="@drawable/ic_tool"
+        android:title="小工具" />
+</menu>

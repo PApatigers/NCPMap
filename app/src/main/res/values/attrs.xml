@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //functionView 属性
+    <declare-styleable name="functionView">
+        <attr name="functionName" format="string"/>
+        <attr name="functionExra" format="string"/>
+        <attr name="functionIcon" format="reference"/>
+    </declare-styleable>
+</resources>
